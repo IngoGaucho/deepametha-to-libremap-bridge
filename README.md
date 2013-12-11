@@ -11,14 +11,13 @@ It will provide the same router database, rendering the connected Nodes from the
 * extend the functionality of the DeepaMetha Framework
 
 
-### Installation
-...
+## Installation
 
 
 ## Bugs and feature requests
 I appreciate any suggestion or help \(*O*)/
 
-# LibreMap
+## LibreMap
 
 LibreMap is maintained by [André](https://github.com/andrenarchy) and [Nico](https://github.com/nicoechaniz). There is a **[mailing list](http://lists.libremap.net/mailman/listinfo/discussion)** for questions and discussions about LibreMap, so feel free to drop a line there!
 
