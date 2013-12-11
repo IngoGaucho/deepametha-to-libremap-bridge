@@ -15,7 +15,7 @@ It will provide the same router database, rendering the connected Nodes from the
 
 
 ## Bugs and feature requests
-I appreciate any suggestion or help "\"(*O*)/
+I appreciate any suggestion or help 
 
 ## LibreMap
 
