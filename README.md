@@ -37,7 +37,7 @@ Author: Malte Reißig, Berlin, 2013
 
 
 ###contact
-deepametha-to-libremap-bridge is maintained by [Ingo](https://github.com/IngoGaucho)
+deepametha-to-libremap-bridge is coded by [Ingo](https://github.com/IngoGaucho)
 
 ### License
 
