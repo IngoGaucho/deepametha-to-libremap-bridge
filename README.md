@@ -15,7 +15,7 @@ It will be able to utilize the same router databases, rendering the connected No
 
 
 ###Bugs and feature requests
-I appreciate any suggestion or help 
+Appreciating any suggestions or help 
 
 I get inspired or use code of following projects
 
