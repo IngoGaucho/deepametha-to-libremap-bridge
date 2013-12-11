@@ -2,7 +2,7 @@ deepametha-to-libremap-bridge
 =============================
 
 this one provides an OSGi compliant module for the DeepaMetha Framework, connectig to the libremaps couchDBs.
-It will provide the same router database, rendering the connected Nodes from the prospect of Neo4j, a Graphoriented Database.
+It will provide the same router database, rendering the connected Nodes from the prospect of Neo4j, a graphoriented database.
 
 ## Goals of "deepametha-to-libremap-bridge":
 * show the state of all community networks, both on a global and local scale.
